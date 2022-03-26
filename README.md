@@ -10,7 +10,7 @@
 
 ## 一、红绿灯
 
-[红绿灯demo](./traffic-light.html)
+[红绿灯demo]([./traffic-light.html](https://makapicture.oss-cn-beijing.aliyuncs.com/cdn/mk-widgets/fe-testing-res/traffic-light.html))
 
 要点：
 
