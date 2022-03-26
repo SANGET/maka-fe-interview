@@ -10,15 +10,15 @@
 
 ## 一、红绿灯
 
-[红绿灯demo](https://makapicture.oss-cn-beijing.aliyuncs.com/cdn/mk-widgets/fe-testing-res/traffic-light.html)
+查看[红绿灯demo](https://makapicture.oss-cn-beijing.aliyuncs.com/cdn/mk-widgets/fe-testing-res/traffic-light.html)，在 codesandbox 实现一个类似的应用。
 
 要点：
 
-1. 功能逻辑
-   1. 暂停/播放
-   2. 时间间隔
-   3. 方向
-2. UI 自由发挥（发挥自身审美）
+- 功能逻辑
+  - 暂停/播放
+  - 时间间隔
+  - 方向
+- UI 自由发挥（发挥自身审美）
 
 <!-- ## 二、矩形判断
 
