@@ -7,6 +7,7 @@
 1. 使用在线 IDE [codesandbox](https://codesandbox.io/) 做题
 2. 使用 React + TS 编写（如果不会，可以马上打开 React 和 TS 的文档开始学习呢）
 3. 一天内完成
+4. 二选一
 
 ## 一、红绿灯
 
@@ -20,22 +21,17 @@
   - 方向
 - UI 自由发挥（发挥自身审美）
 
-<!-- ## 二、矩形判断
+## 二、空格替换
 
-已知四个坐标点，计算这四个点是否可以组成一个矩形
+已知一段 html 格式的字符串，实现 `replaceWhitespace` 函数将其内容的空格替换成 `&nbsp;`
+
+注意：html tag 标签中不能替换
 
 ```ts
-// Point 数据结构如下 
-interface Point {
-   x: number;
-   y: number; 
-}
+const content = `<body><div style="padding: 1px">12           3</div></body>`
 
-// 请实现以下函数:
-// 注意: 以下 points 不一定有序
-function isRectangle(points: Point[]): boolean;
+const replaceWhitespace = (htmlStr: string) => string
+
+replaceWhitespace(content)
+// 输出结果 <body><div style="padding: 1px">12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3</div></body>
 ```
-
-## 三、星星
-
-实现一个星星 -->
