@@ -30,7 +30,7 @@
 ```ts
 const content = `<body><div style="padding: 1px">12           3</div></body>`
 
-const replaceWhitespace = (htmlStr: string) => string
+function replaceWhitespace(htmlStr: string): string {}
 
 replaceWhitespace(content)
 // 输出结果 <body><div style="padding: 1px">12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3</div></body>
