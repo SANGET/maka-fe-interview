@@ -25,7 +25,7 @@
 
 已知一段 html 格式的字符串，实现 `replaceWhitespace` 函数将其内容的空格替换成 `&nbsp;`
 
-注意：html tag 标签中不能替换
+注意：html tag 标签中的空格不要替换
 
 ```ts
 const content = `<body><div style="padding: 1px">12           3</div></body>`
