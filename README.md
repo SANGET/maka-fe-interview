@@ -2,12 +2,11 @@
 
 亲爱的候选人，你可以[点击这里](./intro.md)了解 Maka 更多信息。
 
-## 做题要求
+## 答题要求
 
-1. 使用在线 IDE [codesandbox](https://codesandbox.io/) 做题
+1. 使用在线 IDE [codesandbox](https://codesandbox.io/)
 2. 使用 React + TS 编写（如果不会，可以马上打开 React 和 TS 的文档开始学习呢）
 3. 一天内完成
-4. 二选一
 
 ## 一、红绿灯
 
